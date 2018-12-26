@@ -15,6 +15,7 @@
 @property (weak, nonatomic) IBOutlet UILabel *resultLabelItem;
 @end
 
+//! This is the view controller for ParsingExpressions a BNF simple parser
 @implementation ViewController
 {
     //recent tokens
